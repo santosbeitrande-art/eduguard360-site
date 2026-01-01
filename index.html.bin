@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <title>EDU•GUARD360</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0b1d2a;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      text-align: center;
+    }
+    .box {
+      max-width: 600px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>EDU•GUARD360</h1>
+    <p>
+      Plataforma digital de segurança, governação e controlo de entradas e saídas escolares.
+    </p>
+    <p>
+      Sistema em implementação piloto.<br/>
+      Acesso restrito a instituições autorizadas.
+    </p>
+  </div>
+</body>
+</html>
